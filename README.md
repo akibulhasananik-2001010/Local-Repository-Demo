@@ -4,17 +4,13 @@ A simple static website created to demonstrate working with a local Git reposito
 
 ## Overview
 
-This project was developed as a beginner-friendly example of creating and managing a local Git repository before publishing it to GitHub.
-
-The website consists of a basic HTML page styled with CSS and serves as an introduction to version control, repository management, and fundamental web development concepts.
+The website consists of a basic HTML page styled with CSS and serves as an introduction to version control, repository management, and how to push files by using vs code terminal.
 
 ## Features
 
 * Simple and lightweight web page
-* Custom styling using CSS
 * Beginner-friendly project structure
 * Demonstrates local Git repository workflow
-* Easy to customize and expand
 
 ## Technologies Used
 
@@ -45,8 +41,6 @@ This repository was created for learning purposes to understand:
 * Local Git repository creation
 * Git version control workflow
 * Connecting local repositories to GitHub
-* Basic HTML and CSS development
-* Static website deployment
 
 ## Author
 
