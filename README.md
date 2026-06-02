@@ -28,12 +28,6 @@ Local-Repository-Demo/
 └── README.md       # Project documentation and setup instructions
 ```
 
-## How to Run Locally
-
-1. Clone the repository.
-2. Open the project folder.
-3. Open the `index.html` file in any web browser.
-
 ## Learning Purpose
 
 This repository was created for learning purposes to understand:
